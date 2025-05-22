@@ -24,7 +24,7 @@ I specialize in:
 **Tools**: `Excel (Advanced)`, `Power BI`, `Tableau`, `Google Colab`, `VS Code`  
 **Methods**: `Regression`, `ANOVA`, `Forecasting`, `Predictive Modeling`, `Clustering`, `Retention Analysis`  
 **Platforms**: `REDCap`, `EPIC`, `Cerner`, `Qualtrics`  
-**Certifications & Learning**: `Lean Six Sigma Yellow Belt`, `PMP (In Progress)`, `DataCamp: SQL & Python`
+**Certifications & Learning**: `Lean Six Sigma Yellow Belt`, `DataCamp: SQL & Python`, `PMP (In Progress)`
 
 ---
 
