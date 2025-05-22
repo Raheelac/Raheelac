@@ -20,10 +20,10 @@ I specialize in:
 ---
 
 ## 🛠️ Tools & Technologies  
-**Languages**: Python, SQL, R  
-**Tools**: Excel (Advanced), Power BI, Tableau, Google Colab, VS Code  
-**Methods**: Regression, ANOVA, Forecasting, Predictive Modeling, Clustering, Retention Analysis  
-**Platforms**: REDCap, EPIC, Cerner, Qualtrics  
+**Languages**: `Python`, `SQL`, `R`  
+**Tools**: `Excel (Advanced)`, `Power BI`, `Tableau`, `Google Colab`, `VS Code`  
+**Methods**: `Regression`, `ANOVA`, `Forecasting`, `Predictive Modeling`, `Clustering`, `Retention Analysis`  
+**Platforms**: `REDCap`, `EPIC`, `Cerner`, `Qualtrics`
 
 ---
 
